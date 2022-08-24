@@ -8,3 +8,5 @@ x.add("kyanzi")
 x.add("Hassan")
 x.add("Musisi")
 print(x)
+
+print(f"set has {len(x)} elements")
